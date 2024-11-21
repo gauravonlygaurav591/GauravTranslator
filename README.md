@@ -1,4 +1,5 @@
 # GauravTranslator
 This is my first Git Repository.
 <br>
-Author - GauravOnly
+Author - Gau
+ravOnly(Dronacharya)
